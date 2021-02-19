@@ -8,7 +8,7 @@ This is my project where I created a a weather dashboard from scratch. my dashbo
 
 Local storage was implemented properly to save input to store any persistent data and display dates and times in JavaScript. 
 
-![photo of my assignment](./Assets/Rabiah-H.-weather-Dashboard-photo.PNG)
+![photo of my assignment](Assets/Rabiah-H.-weather-Dashboard-photo.PNG)
 
 
 [link to my assignment](https://rabiahfh.github.io/Weather-Dashboard/)
